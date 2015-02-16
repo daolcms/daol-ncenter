@@ -1,6 +1,6 @@
 ## DAOL Notification Center
+DAOL Notification Center is a DAOL CMS Module, branched out from XpressEngine Notification Center Lite.  
 다올 알림센터는 다올 CMS의 모듈이며, XpressEngine 알린센터 Lite에서 파생되었습니다.  
-DAOL Notification Center is a DAOL CMS Module, branched out from XpressEngine Notification Center Lite
 
 ## Feature
 * 댓글이 작성되면 글 작성자에게 알림
