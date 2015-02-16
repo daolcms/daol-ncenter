@@ -11,8 +11,8 @@ DAOL Notification Center is a DAOL CMS Module, branched out from XpressEngine No
 * 회원이 모든 알림 내용을 받거나 안받을 수 있도록 설정가능.(회원설정가능)
 
 ## License
-Copyright (C) 2013 XE Public.  
-Copyright (C) 2013-2015 DAOL Project.  
+Copyright (C) 2013 XE Public. https://github.com/xe-public  
+Copyright (C) 2013-2015 DAOL Project. http://www.daolcms.org  
 
 This program is free software; you can redistribute it and/or modify it under the terms of the **GNU General Public License** as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
 
